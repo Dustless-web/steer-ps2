@@ -1,0 +1,17 @@
+.env
+__pycache__/
+runs/
+.venv/
+logs/
+
+output/
+sources/
+*.pdf
+live-run.json
+redesign-run.json
+sample-runs.json
+steer-demo-review.json
+verification.json
+batch-result.json
+.env.*
+!.env.example

@@ -1,0 +1,126 @@
+{
+  "title": "Read beyond the headline",
+  "study_design": "Before-and-after nutrition intervention; small subgroup",
+  "limitations": [
+    "Small before-and-after intervention subgroup; no randomised comparator described. Table IV reports 8/30 as 25%, which is inconsistent. Intervention duration is unclear. Do not use effect estimates in promotional copy."
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "text": "100 men were recruited, but the intervention subgroup contained 30 men.",
+      "quote": "Among 100 obese men, a subsample of 30 patients with MetS received personalized counseling, pamphlets, and PowerPoint presentations",
+      "page": 2,
+      "section": "Methods 2.4",
+      "population": "Men aged 36–55 in Coimbatore",
+      "limitations": "Small before-and-after intervention subgroup; no randomised comparator described. Table IV reports 8/30 as 25%, which is inconsistent. Intervention duration is unclear. Do not use effect estimates in promotional copy."
+    },
+    {
+      "id": "C2",
+      "text": "Outcomes were assessed before and after the intervention.",
+      "quote": "The effectiveness of the program was evaluated by comparing outcomes before and after the intervention.",
+      "page": 1,
+      "section": "Abstract",
+      "population": "Intervention subgroup of 30 men",
+      "limitations": "Small before-and-after intervention subgroup; no randomised comparator described. Table IV reports 8/30 as 25%, which is inconsistent. Intervention duration is unclear. Do not use effect estimates in promotional copy."
+    }
+  ],
+  "carousel": [
+    {
+      "headline": "Read beyond the headline.",
+      "body": "A research number can sound simple. Its context matters.",
+      "claim_ids": [
+        "C1"
+      ]
+    },
+    {
+      "headline": "100 recruited. 30 in the programme.",
+      "body": "This Coimbatore paper describes a smaller intervention subgroup than its total recruited sample.",
+      "claim_ids": [
+        "C1"
+      ]
+    },
+    {
+      "headline": "Before and after.",
+      "body": "The paper compared outcomes before and after its programme. This design alone cannot isolate the cause of a change.",
+      "claim_ids": [
+        "C2"
+      ]
+    },
+    {
+      "headline": "Questions worth asking.",
+      "body": "Who took part? How was change assessed? What remains uncertain?",
+      "claim_ids": []
+    },
+    {
+      "headline": "Bring the paper.",
+      "body": "Ask your doctor to help interpret the evidence for your own situation.",
+      "claim_ids": []
+    }
+  ],
+  "static": {
+    "headline": "100 recruited. 30 in the programme.",
+    "body": "This Coimbatore paper describes a smaller intervention subgroup than its total recruited sample.",
+    "claim_ids": [
+      "C1"
+    ]
+  },
+  "reel": [
+    {
+      "headline": "Read beyond the headline.",
+      "body": "A research number can sound simple. Its context matters.",
+      "claim_ids": [
+        "C1"
+      ]
+    },
+    {
+      "headline": "100 recruited. 30 in the programme.",
+      "body": "This Coimbatore paper describes a smaller intervention subgroup than its total recruited sample.",
+      "claim_ids": [
+        "C1"
+      ]
+    },
+    {
+      "headline": "Before and after.",
+      "body": "The paper compared outcomes before and after its programme. This design alone cannot isolate the cause of a change.",
+      "claim_ids": [
+        "C2"
+      ]
+    },
+    {
+      "headline": "Bring the paper.",
+      "body": "Ask your doctor to help interpret the evidence for your own situation.",
+      "claim_ids": []
+    }
+  ],
+  "caption": "Before sharing a study, check who actually received the intervention. This Coimbatore paper recruited 100 men but describes an intervention subgroup of 30. Its before-and-after comparison needs careful interpretation. Bring your questions to a clinician.",
+  "caption_claim_ids": [
+    "C1",
+    "C2"
+  ],
+  "hashtags": [
+    "#SteerClub",
+    "#ResearchLiteracy"
+  ],
+  "message": "Understand the sample and study design before trusting a headline.",
+  "reasoning": "Demonstrates that the pipeline exposes evidence limitations instead of converting every result into a benefit claim.",
+  "provenance": {
+    "mode": "prepared_ai_assisted_copy",
+    "model": "authored in Codex; no runtime API call",
+    "source_url": "https://doi.org/10.25258/ijddt.16.29s.16",
+    "creative_selection": "Inferred locally from saved evidence; no model call"
+  },
+  "version": "096fe5afe40c2cc2085a3596f42063f11e60c3a57c85ffeca376c185d5ff29c9",
+  "creative": {
+    "story_type": "timeline",
+    "character": "paper",
+    "hero_prop": "plate",
+    "supporting_props": [
+      "clock"
+    ],
+    "rationale": "Inferred from saved study design (Before-and-after nutrition intervention; small subgroup) and evidence topic. Timeline motion with plate as the subject and paper as investigator. Review or change these choices before rendering.",
+    "evidence_ids": [
+      "C1",
+      "C2"
+    ]
+  }
+}

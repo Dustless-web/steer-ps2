@@ -1,0 +1,183 @@
+{
+  "title": "Effect of Resistance Exercise on Body Composition and Strength During Dietary Weight Loss",
+  "study_design": "Systematic review and meta-analysis of 25 randomised controlled trials",
+  "limitations": [
+    "Allocation concealment and outcome assessor blinding were rarely reported, leaving risk of bias unclear or high across most trials.",
+    "Fifteen of the 25 included trials enrolled only female participants, limiting generalisability to men.",
+    "Interventions lasting six months or longer had high attrition (25% to 49%) and inconsistent reporting of exercise adherence.",
+    "Evidence for muscular strength and blood lipid markers was rated as low certainty due to high heterogeneity and small sample sizes."
+  ],
+  "claims": [
+    {
+      "id": "claim_1",
+      "text": "Adding resistance exercise to dietary weight loss protects against the loss of fat-free mass with moderate certainty and increases fat mass loss with high certainty.",
+      "page": 1,
+      "quote": "resistance exercise protected against the loss of fat- free mass (between- group standardised mean difference (SMD): 0.40, p=0.0003, moderate certainty) and increased loss of fat mass (SMD: −0.36, p<0.00001, high certainty).",
+      "section": "ABSTRACT - Results",
+      "population": "Adults aged 18–65 years living with overweight or obesity undergoing dietary weight loss",
+      "limitations": "Fat-free mass includes water, organs, and bone, not just muscle; statistical prediction intervals crossed zero."
+    },
+    {
+      "id": "claim_2",
+      "text": "Muscular strength is significantly greater when resistance exercise is added to dietary weight loss, based on low certainty evidence.",
+      "page": 1,
+      "quote": "Muscular strength was also significantly greater (SMD 2.36, p=0.00001) following the inclusion of resistance exercise (low certainty).",
+      "section": "ABSTRACT - Results",
+      "population": "Adults aged 18–65 years living with overweight or obesity undergoing dietary weight loss",
+      "limitations": "Certainty was rated low because of substantial statistical heterogeneity across trials and small study cohorts."
+    },
+    {
+      "id": "claim_3",
+      "text": "The addition of resistance exercise to dietary weight loss had no statistically significant effect on overall body mass reduction.",
+      "page": 1,
+      "quote": "Overall, resistance exercise during diet- induced weight loss had no effect on body mass (mean difference between groups: −0.32 kg, p=0.35)",
+      "section": "ABSTRACT - Results",
+      "population": "Adults aged 18–65 years living with overweight or obesity undergoing dietary weight loss",
+      "limitations": "A lack of statistically significant difference does not demonstrate proof of absolute equivalence."
+    },
+    {
+      "id": "claim_4",
+      "text": "Subgroup analysis showed fat-free mass preservation reached statistical significance in interventions of five months or less, but not in longer trials.",
+      "page": 10,
+      "quote": "Fat- free mass preservation was only present in shorter duration interventions (<5 months). While declining adherence over time may contribute to this finding, other factors are also likely involved.",
+      "section": "DISCUSSION",
+      "population": "Adults aged 18–65 years living with overweight or obesity undergoing dietary weight loss",
+      "limitations": "Fewer long-term studies and higher attrition limited statistical power, which does not prove benefits disappear over time."
+    }
+  ],
+  "carousel": [
+    {
+      "headline": "Losing weight on your mind?",
+      "body": "When adjusting our daily meals, what happens to the rest of the body? Let us look at what evidence shows about adding resistance exercise.",
+      "claim_ids": []
+    },
+    {
+      "headline": "What the evidence examined",
+      "body": "A 2025 review of 25 trials in adults with overweight or obesity examined adding resistance workouts to dietary weight loss versus diet alone.",
+      "claim_ids": [
+        "claim_1",
+        "claim_3"
+      ]
+    },
+    {
+      "headline": "Sparing lean mass while losing fat",
+      "body": "In adults dieting, resistance work spared fat-free mass (moderate certainty; not just muscle) and cut fat mass (high certainty), without changing overall weight.",
+      "claim_ids": [
+        "claim_1",
+        "claim_3"
+      ]
+    },
+    {
+      "headline": "Key limitations to consider",
+      "body": "Strength gains carried low certainty due to trial variation. Subgroup preservation of fat-free mass did not reach statistical significance in trials past five months.",
+      "claim_ids": [
+        "claim_2",
+        "claim_4"
+      ]
+    },
+    {
+      "headline": "A gentle reflection for daily life",
+      "body": "Whether carrying grocery bags or lifting weights at home, how do you like to stay physically active alongside your regular home-cooked meals?",
+      "claim_ids": []
+    }
+  ],
+  "static": {
+    "headline": "Resistance exercise during dietary weight loss",
+    "body": "In adults with overweight, adding resistance workouts spared fat-free mass (moderate certainty; not just muscle) and cut fat, without altering total scale weight loss.",
+    "claim_ids": [
+      "claim_1",
+      "claim_3"
+    ]
+  },
+  "reel": [
+    {
+      "headline": "Looking beyond the weighing scale",
+      "body": "When adults with overweight reduce calories, overall scale weight drops, but a 2025 review of 25 trials evaluated what happens beneath the surface.",
+      "claim_ids": [
+        "claim_1",
+        "claim_3"
+      ]
+    },
+    {
+      "headline": "Protecting fat-free mass",
+      "body": "Adding resistance exercise helped adults preserve fat-free mass (moderate certainty)—which is not the same as muscle—and shed more fat mass (high certainty).",
+      "claim_ids": [
+        "claim_1"
+      ]
+    },
+    {
+      "headline": "Strength and study limitations",
+      "body": "Muscular strength improved (low certainty). Subgroup lean mass preservation did not reach statistical significance in trials longer than five months.",
+      "claim_ids": [
+        "claim_2",
+        "claim_4"
+      ]
+    },
+    {
+      "headline": "Nourishing strength every day",
+      "body": "Instead of focusing solely on the bathroom scale, how might you build strength and support your body through your everyday routine?",
+      "claim_ids": []
+    }
+  ],
+  "caption": "When adults living with overweight or obesity reduce calories, diet alone can reduce both fat and fat-free mass. A 2025 systematic review of 25 randomised trials found that adding resistance exercise protected fat-free mass (moderate certainty) and increased fat mass loss (high certainty), without changing overall body weight loss. Importantly, fat-free mass is not the same as muscle alone, as it also includes body water and organs. Muscular strength was also greater (low certainty), though evidence is limited by study inconsistency. Subgroup preservation of fat-free mass was not statistically significant in trials lasting over five months. Keeping functional strength remains a valuable perspective alongside balanced meals.",
+  "caption_claim_ids": [
+    "claim_1",
+    "claim_2",
+    "claim_3",
+    "claim_4"
+  ],
+  "hashtags": [
+    "#StrengthTraining",
+    "#BodyComposition",
+    "#EvidenceBasedHealth",
+    "#PublicHealth",
+    "#PhysicalActivity"
+  ],
+  "message": "Preserving functional strength and fat-free tissue is an important aspect of health that cannot be measured by scale weight alone.",
+  "reasoning": "In urban Indian health discussions, dietary weight management often fixates strictly on numbers on the bathroom scale, inadvertently ignoring the concurrent loss of non-fat mass and functional strength. Clarifying the evidence helps shift attention from rapid weight drops toward long-term functional vitality without prescriptive pressure.",
+  "provenance": {
+    "editorial_pass": "Gemini source-grounded revision; not clinician approval",
+    "mode": "live_api",
+    "provider": "gemini",
+    "model": "gemini-3.8-flash",
+    "prompt_sha256": "b742471136eb418e1210f82b89f6058c46ad2511b032467b4f9144698c54218f",
+    "coverage": {
+      "pdf_pages": 14,
+      "model_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "excerpt_characters": 63126,
+      "full_text_included": true
+    },
+    "creative_selection": "Inferred locally from saved evidence; no model call"
+  },
+  "version": "338e4d2599324930ede38d970a8e31ed3334f7e688914175d3107b2daf1900b1",
+  "creative": {
+    "story_type": "review",
+    "character": "paper",
+    "hero_prop": "band",
+    "supporting_props": [
+      "scale",
+      "plate"
+    ],
+    "rationale": "Inferred from saved study design (Systematic review and meta-analysis of 25 randomised controlled trials) and evidence topic. Review motion with band as the subject and paper as investigator. Review or change these choices before rendering.",
+    "evidence_ids": [
+      "claim_1",
+      "claim_2",
+      "claim_3"
+    ]
+  }
+}
